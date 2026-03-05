@@ -1,0 +1,19 @@
+aternos-clone/
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   └── server.js
+│   ├── models/
+│   │   ├── User.js
+│   │   └── Server.js
+│   └── dockerManager.js
+│
+├── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── Login.js
+│   │   └── Dashboard.js
+│
+└── docker-compose.yml
